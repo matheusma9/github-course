@@ -3,3 +3,5 @@
 Este é um repositório teste para mostrar como o Git funciona.
 
 Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
+
+Gostou do curso? Faça uma doação.
